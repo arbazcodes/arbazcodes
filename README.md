@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="250"/><br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=yellow" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=arbazcodes&style=flat-square&color=yellow" alt=""/>
 </div>
 <hr>
 <div id="hi" align="center">
