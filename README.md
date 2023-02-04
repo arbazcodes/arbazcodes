@@ -1,6 +1,9 @@
 <link href='https://fonts.googleapis.com/css?family=Unbounded' rel='stylesheet'>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="250"/><br>
+  <a href="https://www.linkedin.com/in/arbazcodes">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a><br>
   <img src="https://komarev.com/ghpvc/?username=arbazcodes&style=flat-square&color=yellow" alt=""/>
 </div>
 <hr>
