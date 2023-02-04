@@ -10,7 +10,7 @@
 <div id="hi" align="center">
 <h1 style="text-align:center;">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
-<p style="text-align:center;font-size:160%;">Arbaz Khan here. I am a Computer Science student at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI). I am currently working towards my Bachelor's Degree. Currently, I am working towards enhancing my skills in Machine Learning and AI. Here I callaborate with my team and share some projects I have completed.</p>
+<p style="text-align:center;font-size:160%;">Arbaz Khan here. I am a BS Computer Science student at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI). At the moment, I am working towards enhancing my skills in Machine Learning and AI. Here I callaborate with my team and share some projects I have completed.</p>
 <hr>
 <p style="text-align:center;font-size:160%;font-family:Space Grotesk">
 Development Environments<br><br>
