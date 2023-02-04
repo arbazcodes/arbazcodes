@@ -10,10 +10,10 @@
 <hr>
 <p style="text-align:center;font-size:160%;font-family:Space Grotesk">
 Development Environments<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30px"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="30px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="30px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30px"/>&emsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30px"/>&emsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="30px"/>&emsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="30px"/>&emsp
   
 </p>
 <p style="text-align:center;font-size:160%;font-family:Space Grotesk">
