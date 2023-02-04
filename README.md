@@ -10,7 +10,7 @@
 <hr>
 <p style="text-align:center;font-size:160%;font-family:Space Grotesk">
 Development Environments
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://github.com/devicons/devicon/tree/master/icons/vscode)" width="30px"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/vscode" width="30px"/>
 </p>
 <p style="text-align:center;font-size:160%;font-family:Space Grotesk">
 Languages and Tools
